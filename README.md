@@ -1,6 +1,10 @@
 # notes_app
 
-A new Flutter project.
+A new Flutter project. Code for a simple note taking app.
+
+Here's a snap
+![image](https://user-images.githubusercontent.com/60225218/121787728-88eb3f80-cbe5-11eb-8cea-05fffcdd101f.png)
+
 
 ## Getting Started
 
